@@ -1,3 +1,6 @@
+// the split words needs more though, but this wasnt about that initially.
+// it also needs testing, edge cases dont work, this is certainly not finished.
+
 const splitWords = (stringInput) => {
 	return stringInput.split(' ');
 };
